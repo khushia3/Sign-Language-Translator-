@@ -22,7 +22,7 @@ This project is a **Speech-to-Sign Language Translator** that converts spoken wo
 ## **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourgithubusername/Speech-to-Sign-Language-Translator.git
+   git clone https://github.com/khushia3/Speech-to-Sign-Language-Translator.git
    cd Speech-to-Sign-Language-Translator
    ```  
 2. Install dependencies:  
